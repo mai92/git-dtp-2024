@@ -2,3 +2,4 @@ Nama : Mr X
 Kelas DTP : Hipster
 Alamat : Korea
 Jenis Kelamin : Laki Laki
+Usia : 17
