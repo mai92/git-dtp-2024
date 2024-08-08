@@ -3,3 +3,4 @@ Kelas DTP : Hipster
 Alamat : Korea
 Jenis Kelamin : Laki Laki
 Usia : 17
+Sekolah : SMK Telkom Sidoarjo
